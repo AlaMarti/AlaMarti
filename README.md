@@ -38,7 +38,7 @@ Apasionado por resolver cosas y entender como se hacen.
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
 
 
